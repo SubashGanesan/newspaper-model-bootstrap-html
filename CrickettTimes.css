@@ -1,0 +1,41 @@
+body{
+    background: rgb(218, 214, 214);
+}
+.topright{
+    float: right;
+}
+.topleft{
+    float: left;
+}
+.h1{
+    font-size: 106px;
+    text-align:center;
+}
+.p{
+    width:80px;
+    background-color:red
+}
+.p1{
+    background-color:red;
+    padding: 0px;margin: 10px;
+    width: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
